@@ -42,10 +42,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(myIntent)
         }
 
-
-
-
-
     }
     fun setValuse(){
         //인터넷상에 있는 이미지를 곧바로 이미지뷰에 적용.
